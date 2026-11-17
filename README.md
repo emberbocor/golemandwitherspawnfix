@@ -10,7 +10,7 @@ Available for NeoForge, Forge and Fabric.
 
 ## Features
 
-- **Iron golems spawn over small blocks.** The four empty spots beside and below the golem's arms may hold grass, flowers, snow, carpets and similar small blocks.
+- **Iron golems spawn over small blocks.** The two empty spots beside the head and the two below the arms may hold grass, flowers, snow, carpets and similar small blocks.
 - **Withers spawn over small blocks.** The same goes for the two empty spots below the Wither's arms.
 - **Any direction.** Works for upright builds as well as builds lying on their side.
 - **Dispensers too.** A dispenser that places the pumpkin or the last wither skeleton skull completes the build when the empty spots hold small blocks.
